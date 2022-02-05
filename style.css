@@ -1,0 +1,32 @@
+#title{
+    text-align: center;
+}
+
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: black;
+    margin: 0;
+}
+
+.post_content {
+    padding: 15px;
+    text-align:  center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+    color: black;
+    margin: 0;
+}
+
+.img {
+    width: 100%;
+    display: flex;
+    height: auto;
+}
+
+#img-caption {
+    font-size: 20px;
+}
